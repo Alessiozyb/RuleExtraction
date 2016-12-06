@@ -1,0 +1,130 @@
+
+==Frequent itemsets (min_sup = 3.00%)
+['Above 50K'] , 64.00%
+['Internal'] , 53.09%
+['External'] , 46.91%
+['Below 50K'] , 36.00%
+['Internal', 'Above 50K'] , 33.75%
+['00'] , 32.21%
+['External', 'Above 50K'] , 30.25%
+['DEPT OF HEALTH/MENTAL HYGIENE'] , 28.71%
+['01'] , 20.01%
+['Internal', 'Below 50K'] , 19.34%
+['02'] , 18.77%
+['00', 'Below 50K'] , 17.13%
+['Internal', '00'] , 16.98%
+['External', 'Below 50K'] , 16.66%
+['DEPT OF HEALTH/MENTAL HYGIENE', 'Above 50K'] , 15.84%
+['External', '00'] , 15.22%
+['00', 'Above 50K'] , 15.08%
+['DEPT OF HEALTH/MENTAL HYGIENE', 'Internal'] , 14.65%
+['DEPT OF HEALTH/MENTAL HYGIENE', 'External'] , 14.06%
+['DEPT OF HEALTH/MENTAL HYGIENE', 'Below 50K'] , 12.87%
+['02', 'Above 50K'] , 12.84%
+['DEPT OF ENVIRONMENT PROTECTION'] , 11.23%
+['01', 'Below 50K'] , 11.23%
+['Internal', '01'] , 10.59%
+['Internal', '02'] , 10.04%
+['External', '01'] , 9.42%
+['Internal', '00', 'Below 50K'] , 8.98%
+['01', 'Above 50K'] , 8.78%
+['External', '02'] , 8.73%
+['03'] , 8.50%
+['DEPT OF HEALTH/MENTAL HYGIENE', '02'] , 8.28%
+['External', '00', 'Below 50K'] , 8.16%
+['DEPT OF HEALTH/MENTAL HYGIENE', 'Internal', 'Above 50K'] , 8.08%
+['Internal', '00', 'Above 50K'] , 8.01%
+['DEPT OF HEALTH/MENTAL HYGIENE', 'External', 'Above 50K'] , 7.76%
+['M1'] , 7.51%
+['03', 'Above 50K'] , 7.44%
+['M1', 'Above 50K'] , 7.39%
+['DEPT OF HEALTH/MENTAL HYGIENE', '01'] , 7.09%
+['External', '00', 'Above 50K'] , 7.07%
+['CITY RESEARCH SCIENTIST'] , 6.97%
+['DEPT OF ENVIRONMENT PROTECTION', 'Above 50K'] , 6.89%
+['CITY RESEARCH SCIENTIST', 'Above 50K'] , 6.77%
+['Internal', '02', 'Above 50K'] , 6.77%
+['DEPT OF HEALTH/MENTAL HYGIENE', 'Internal', 'Below 50K'] , 6.57%
+['DEPT OF HEALTH/MENTAL HYGIENE', '00'] , 6.47%
+['DEPT OF HEALTH/MENTAL HYGIENE', 'External', 'Below 50K'] , 6.30%
+['External', '02', 'Above 50K'] , 6.07%
+['Internal', '01', 'Below 50K'] , 5.95%
+['02', 'Below 50K'] , 5.93%
+['DEPT OF ENVIRONMENT PROTECTION', 'Internal'] , 5.90%
+['DEPT OF INFO TECH & TELECOMM'] , 5.75%
+['DEPT OF HEALTH/MENTAL HYGIENE', 'CITY RESEARCH SCIENTIST'] , 5.65%
+['DEPARTMENT OF TRANSPORTATION'] , 5.48%
+['COMMUNITY COORDINATOR'] , 5.45%
+['COMMUNITY COORDINATOR', '00'] , 5.45%
+['DEPT OF HEALTH/MENTAL HYGIENE', 'CITY RESEARCH SCIENTIST', 'Above 50K'] , 5.45%
+['DEPT OF ENVIRONMENT PROTECTION', 'External'] , 5.33%
+['External', '01', 'Below 50K'] , 5.28%
+['Internal', '03'] , 4.81%
+['Internal', '01', 'Above 50K'] , 4.64%
+['DEPT OF INFO TECH & TELECOMM', 'Above 50K'] , 4.59%
+['DEPT OF HEALTH/MENTAL HYGIENE', '02', 'Above 50K'] , 4.59%
+['DEPT OF ENVIRONMENT PROTECTION', 'Below 50K'] , 4.34%
+['M2'] , 4.31%
+['M2', 'Above 50K'] , 4.31%
+['DEPT OF HEALTH/MENTAL HYGIENE', 'Internal', '02'] , 4.29%
+['DEPT OF HEALTH/MENTAL HYGIENE', '01', 'Below 50K'] , 4.26%
+['External', '01', 'Above 50K'] , 4.14%
+['DEPT OF HEALTH/MENTAL HYGIENE', '00', 'Below 50K'] , 4.12%
+['Internal', '03', 'Above 50K'] , 4.07%
+['DEPARTMENT OF TRANSPORTATION', 'Above 50K'] , 4.02%
+['DEPT OF HEALTH/MENTAL HYGIENE', 'External', '02'] , 3.99%
+['DEPT OF ENVIRONMENT PROTECTION', '00'] , 3.97%
+['DEPARTMENT OF FINANCE'] , 3.89%
+['Internal', 'M1'] , 3.87%
+['COMPUTER SPECIALIST (SOFTWARE)'] , 3.84%
+['COMPUTER SPECIALIST (SOFTWARE)', 'Above 50K'] , 3.84%
+['DEPT OF DESIGN & CONSTRUCTION'] , 3.79%
+['Internal', 'M1', 'Above 50K'] , 3.79%
+['External', '03'] , 3.69%
+['DEPT OF HEALTH/MENTAL HYGIENE', '02', 'Below 50K'] , 3.69%
+['External', 'M1'] , 3.64%
+['DEPT OF ENVIRONMENT PROTECTION', 'Internal', 'Above 50K'] , 3.62%
+['External', 'M1', 'Above 50K'] , 3.60%
+['DEPT OF HEALTH/MENTAL HYGIENE', 'Internal', '01'] , 3.60%
+["ADMIN FOR CHILDREN'S SVCS"] , 3.55%
+['COMMUNITY COORDINATOR', 'Above 50K'] , 3.55%
+['COMMUNITY COORDINATOR', '00', 'Above 50K'] , 3.55%
+['Internal', 'CITY RESEARCH SCIENTIST'] , 3.50%
+['DEPT OF HEALTH/MENTAL HYGIENE', 'External', '01'] , 3.50%
+['External', 'CITY RESEARCH SCIENTIST'] , 3.47%
+['Internal', 'CITY RESEARCH SCIENTIST', 'Above 50K'] , 3.40%
+['HOUSING PRESERVATION & DVLPMNT'] , 3.37%
+['COMPUTER SYSTEMS MANAGER'] , 3.37%
+['External', 'CITY RESEARCH SCIENTIST', 'Above 50K'] , 3.37%
+['External', '03', 'Above 50K'] , 3.37%
+['COMPUTER SYSTEMS MANAGER', 'Above 50K'] , 3.30%
+['DEPT OF ENVIRONMENT PROTECTION', 'External', 'Above 50K'] , 3.27%
+['Internal', '02', 'Below 50K'] , 3.27%
+['DEPT OF HEALTH/MENTAL HYGIENE', 'External', '00'] , 3.25%
+["ADMIN FOR CHILDREN'S SVCS", 'Above 50K'] , 3.22%
+['DEPT OF HEALTH/MENTAL HYGIENE', 'Internal', '00'] , 3.22%
+['DEPARTMENT OF TRANSPORTATION', 'Internal'] , 3.20%
+['DEPT OF INFO TECH & TELECOMM', 'Internal'] , 3.15%
+['CITY RESEARCH SCIENTIST', '02'] , 3.05%
+
+==High-confidence association rules (min_conf= 70.00%)
+['COMMUNITY COORDINATOR'] => ['00'] (Conf: 100.00% Supp: 5.45%)
+['M2'] => ['Above 50K'] (Conf: 100.00% Supp: 4.31%)
+['COMPUTER SPECIALIST (SOFTWARE)'] => ['Above 50K'] (Conf: 100.00% Supp: 3.84%)
+['COMMUNITY COORDINATOR', 'Above 50K'] => ['00'] (Conf: 100.00% Supp: 3.55%)
+['External', 'M1'] => ['Above 50K'] (Conf: 98.64% Supp: 3.60%)
+['M1'] => ['Above 50K'] (Conf: 98.35% Supp: 7.39%)
+['Internal', 'M1'] => ['Above 50K'] (Conf: 98.08% Supp: 3.79%)
+['COMPUTER SYSTEMS MANAGER'] => ['Above 50K'] (Conf: 97.79% Supp: 3.30%)
+['Internal', 'CITY RESEARCH SCIENTIST'] => ['Above 50K'] (Conf: 97.16% Supp: 3.40%)
+['CITY RESEARCH SCIENTIST'] => ['Above 50K'] (Conf: 97.15% Supp: 6.77%)
+['External', 'CITY RESEARCH SCIENTIST'] => ['Above 50K'] (Conf: 97.14% Supp: 3.37%)
+['DEPT OF HEALTH/MENTAL HYGIENE', 'CITY RESEARCH SCIENTIST'] => ['Above 50K'] (Conf: 96.49% Supp: 5.45%)
+['External', '03'] => ['Above 50K'] (Conf: 91.28% Supp: 3.37%)
+["ADMIN FOR CHILDREN'S SVCS"] => ['Above 50K'] (Conf: 90.91% Supp: 3.22%)
+['03'] => ['Above 50K'] (Conf: 87.46% Supp: 7.44%)
+['Internal', '03'] => ['Above 50K'] (Conf: 84.54% Supp: 4.07%)
+['CITY RESEARCH SCIENTIST'] => ['DEPT OF HEALTH/MENTAL HYGIENE'] (Conf: 81.14% Supp: 5.65%)
+['CITY RESEARCH SCIENTIST', 'Above 50K'] => ['DEPT OF HEALTH/MENTAL HYGIENE'] (Conf: 80.59% Supp: 5.45%)
+['DEPT OF INFO TECH & TELECOMM'] => ['Above 50K'] (Conf: 79.74% Supp: 4.59%)
+['DEPARTMENT OF TRANSPORTATION'] => ['Above 50K'] (Conf: 73.30% Supp: 4.02%)
